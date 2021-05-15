@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-- 🌱 I’m  a developer.
+- 🌱 I’m  a Ruby on Rails developer.
